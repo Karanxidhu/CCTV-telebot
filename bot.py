@@ -2,10 +2,10 @@ import cv2
 import telepot
 import os
 
-apiToken = '6829665757:AAEnNgJG1HZUMIeJPMtC94XcbVLrYUx7NGg'
-chatID = 1020187657
+apiToken = ''
+chatID =
 bot = telepot.Bot(apiToken)
-os.chdir('/home/karanxidhu/code/telegram bot')
+os.chdir('/home/')
 cap = cv2.VideoCapture(0)
 count = 0
 while True:
